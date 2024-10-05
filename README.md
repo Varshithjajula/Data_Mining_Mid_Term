@@ -54,7 +54,7 @@ pip install pandas mlxtend
 
 1. Run the script:
    ```bash
-   python main.py
+   python Varshith_jajula_MidTermProj.py
    ```
 2. Select a store dataset for analysis from the provided options.
 3. Enter the desired minimum support and confidence thresholds (as percentages).

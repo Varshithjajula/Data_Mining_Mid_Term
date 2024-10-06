@@ -80,7 +80,7 @@ After running the code, the script will output the total count of frequent items
 ### Results:
 
 The performance analysis shows that the FP-Growth algorithm is the most efficient for frequent itemset mining. While the Brute Force algorithm demonstrates relatively fast performance compared to Apriori, FP-Growth significantly outperforms both by constructing an FP-tree, which allows for mining frequent itemsets without the need to generate candidate itemsets. This results in faster execution times, especially on large datasets, making FP-Growth the optimal choice in terms of efficiency and scalability.
-v![image](https://github.com/user-attachments/assets/d48d3527-1400-4ebe-acb4-9547f51174f5)
+![image](https://github.com/user-attachments/assets/d48d3527-1400-4ebe-acb4-9547f51174f5)
 
 
 ### Conclusion:
